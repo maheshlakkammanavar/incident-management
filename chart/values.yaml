@@ -47,7 +47,7 @@ xsuaa:
   serviceOfferingName: xsuaa
   servicePlanName: application
   parameters:
-    xsappname: incident-management
+    xsappname: mahesh
     tenant-mode: dedicated
     oauth2-configuration:
               redirect-uris:
