@@ -18,7 +18,7 @@
     "@sap/eslint-plugin-cds": "^3",
     "@sap/ux-specification": "^1.120.10",
     "axios": "^1.7.2",
-    "chai": "^^4.4.1",
+    "chai": "^4.4.1",
     "chai-as-promised": "^7.1.2",
     "chai-subset": "^1.6.0",
     "eslint": "^9",
